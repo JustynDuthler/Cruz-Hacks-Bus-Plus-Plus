@@ -54,7 +54,6 @@ class stopModal extends React.Component {
             case "Coolidge & Main Entrance": return Main_Entrance;
             case "Empire Grade & Tosca Terrace": return Empire_Grade;
             case "Heller & Family Student Housing": return Family_Housing;
-
             default: return null
 
         }
